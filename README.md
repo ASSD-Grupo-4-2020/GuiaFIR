@@ -1,2 +1,2 @@
 # GuiaFIR
-Es la guia de filtros no recursivos, voy a subir el script the python
+Es la guia de filtros no recursivos, donde van a encontrarse los script de los ejercicios a entregar
